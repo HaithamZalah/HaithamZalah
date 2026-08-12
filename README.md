@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I specialize in data analysis, dashboard design, a
 
 ### 📊 Featured Dashboards & Projects
 - 🚀 **[Call Center Support Dashboard](https://github.com/HaithamZalah/Call-Center-Support-Dashboard/tree/main)**: Comprehensive analysis of call center performance, agent productivity, and service levels.
-- 📈 **[MISUO Sales & Delivery Dashboard](./)**: Interactive sales tracking dashboard focusing on platform performance, top products, and delivery metrics.
+- 📈 **[MISUO Sales & Delivery Dashboard](https://github.com/HaithamZalah/Hypermarket-Sales-Dashboard)**: Interactive sales tracking dashboard focusing on platform performance, top products, and delivery metrics.
 - 🚀 **[Hypermarket Sales Dashboard](./)**: From Raw Transactions to Strategic Business Decisions: An End-to-End Retail Analytics Project in Power BI 
 ---
 
