@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Haitham Salah 👋
+### Data Analyst | Power BI & Excel Specialist
 
-<!--
-**HaithamZalah/HaithamZalah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I specialize in data analysis, dashboard design, and transforming raw data into actionable business insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+- **Data Visualization:** Power BI, Excel Dashboards
+- **Data Analysis & Processing:** Advanced Excel, Power Query, DAX
+- **Database:** SQL
+
+---
+
+### 📊 Featured Dashboards & Projects
+- 🚀 **[Call Center Support Dashboard](./)**: Comprehensive analysis of call center performance, agent productivity, and service levels.
+- 📈 **[MISUO Sales & Delivery Dashboard](./)**: Interactive sales tracking dashboard focusing on platform performance, top products, and delivery metrics.
+- 🚀 **[Hypermarket Sales Dashboard](./)**: From Raw Transactions to Strategic Business Decisions: An End-to-End Retail Analytics Project in Power BI 
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** www.linkedin.com/in/haitham-salah-6b05b4236
+- **Email:** Haithamsalahx@gmail.com
