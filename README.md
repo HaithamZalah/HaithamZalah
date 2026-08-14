@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I specialize in data analysis, dashboard design, a
 
 #### 🏦 Analytics & Domain Expertise
 ![Banking Operations](https://img.shields.io/badge/Banking_Operations-003366?style=for-the-badge&logo=generalelectric&logoColor=white)
-![Credit Risk](https://img.shields.io/badge/Credit_Risk_%26_Appraisal-D14836?style=for-the-badge&logo=analytics&logoColor=white)
 ![Process Automation](https://img.shields.io/badge/Process_Automation-2E7D32?style=for-the-badge&logo=automation&logoColor=white)
 
 ---
