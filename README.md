@@ -5,10 +5,21 @@ Welcome to my GitHub profile! I specialize in data analysis, dashboard design, a
 
 ---
 
-### 🛠️ Skills & Tools
-- **Data Visualization:** Power BI, Excel Dashboards
-- **Data Analysis & Processing:** Advanced Excel, Power Query, DAX
-- **Database:** SQL
+### 🛠️ Technical Skills & Tools
+
+#### 📊 Data Visualization & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+#### 🗄️ Database & Automation
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MS Access](https://img.shields.io/badge/MS_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA_Automation-00838F?style=for-the-badge&logo=microsoft&logoColor=white)
+
+#### 🏦 Analytics & Domain Expertise
+![Banking Operations](https://img.shields.io/badge/Banking_Operations-003366?style=for-the-badge&logo=generalelectric&logoColor=white)
+![Credit Risk](https://img.shields.io/badge/Credit_Risk_%26_Appraisal-D14836?style=for-the-badge&logo=analytics&logoColor=white)
+![Process Automation](https://img.shields.io/badge/Process_Automation-2E7D32?style=for-the-badge&logo=automation&logoColor=white)
 
 ---
 
