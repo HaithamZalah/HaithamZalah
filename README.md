@@ -19,5 +19,5 @@ Welcome to my GitHub profile! I specialize in data analysis, dashboard design, a
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** www.linkedin.com/in/haitham-salah-6b05b4236
+- **LinkedIn:** www.linkedin.com/in/haitham-salah19
 - **Email:** Haithamsalahx@gmail.com
